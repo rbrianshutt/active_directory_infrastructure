@@ -1,4 +1,4 @@
-<h1>Preparing Active Directory Infrastructure in Azure</h1>
+<h1>Setting Up the Environment</h1>
 
 <h2>Setup Domain Controller in Azure</h2>
 
