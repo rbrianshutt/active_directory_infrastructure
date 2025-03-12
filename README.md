@@ -5,7 +5,7 @@
 - <b>Create Resource Group and Virtual Network – Establish the foundation in Azure</b> 
 - <b>Create Domain Controller VM (DC-1) – Install Windows Server 2022 and configure networking.</b>
 - <b>Create Client VM (CLIENT-1) – Connect to the same Virtual Network as DC-1 and configure DNS settings.</b>
-- <b>Verify Connectivity – Test the connection between DC-1 and Client-1.</b>
+- <b>Verify Connectivity – Test the connection between DC-1 and CLIENT-1.</b>
 
 <h2>Setup Domain Controller in Azure</h2>
 
