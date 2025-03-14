@@ -71,7 +71,7 @@ Create the Client VM (Windows 10) named “CLIENT-1” <br/>
 ![](https://github.com/rbrianshutt/active_directory/blob/main/Active%20Directory%202.0/2.1%20create%20client%20vm.PNG)
 <br />
 <br />
-<h3>After VM is created, set Client-1’s DNS settings to DC-1’s Private IP address</h3>
+<h3>After VM is created, set CLIENT-1’s DNS settings to DC-1’s Private IP address</h3>
 
 Take note of DC-1 private IP address <br/>
 
