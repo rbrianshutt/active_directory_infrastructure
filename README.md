@@ -66,7 +66,7 @@ Turn Firewall State OFF for the following: <br/>
 
 <h2>Setup CLIENT-1 in Azure</h2>
 
-Create the Client VM (Windows 10) named “ClIENT-1” <br/>
+Create the Client VM (Windows 10) named “CLIENT-1” <br/>
 
 ![](https://github.com/rbrianshutt/active_directory/blob/main/Active%20Directory%202.0/2.1%20create%20client%20vm.PNG)
 <br />
